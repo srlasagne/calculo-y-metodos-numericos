@@ -1,0 +1,69 @@
+subject:
+  name: Cálculo y Métodos Numéricos
+  code: cmn
+  credits: 6
+  course: 1
+  semester: 2
+
+schedule:
+  start_date: 2025-03-03
+  end_date: 2025-06-26
+
+topics:
+  - topic: Introducción al análisis
+    code: gcs-cmn-t01-introduccion-al-analisis
+  - topic: Derivación de funciones
+    code: gcs-cmn-t02-derivacion-de-funciones
+  - topic: Aplicaciones de la derivación de funciones
+    code: gcs-cmn-t03-aplicaciones-de-la-derivacion-de-funciones
+  - topic: Estudio y representación gráfica de funciones de una variable
+    code: gcs-cmn-t04-estudio-y-representacion-grafica-de-funciones-de-una-variable
+  - topic: Integral definida
+    code: gcs-cmn-t05-integral-definida
+  - topic: Integral indefinida
+    code: gcs-cmn-t06-integral-indefinida
+  - topic: Sucesiones y series finitas
+    code: gcs-cmn-t07-sucesiones-y-series-finitas
+  - topic: Análisis numérico y de los errores
+    code: gcs-cmn-t08-analisis-numerico-y-de-los-errores
+  - topic: Cálculo de raíces e interpolación
+    code: gcs-cmn-t09-calculo-de-raices-e-interpolacion
+  - topic: Conteo y aritmética del computador
+    code: gcs-cmn-t10-conteo-y-aritmetica-del-computador
+
+slides:
+  - slide: Introducción al análisis
+    code: gcs-cmn-s01-introduccion-al-analisis
+  - slide: Derivación de funciones
+    code: gcs-cmn-s02-derivacion-de-funciones
+  - slide: Aplicaciones de la derivación de funciones
+    code: gcs-cmn-s03-aplicaciones-de-la-derivacion-de-funciones
+  - slide: Estudio y representación gráfica de funciones de una variable
+    code: gcs-cmn-s04-estudio-y-representacion-grafica-de-funciones-de-una-variable
+  - slide: Integral definida
+    code: gcs-cmn-s05-integral-definida
+  - slide: Integral indefinida
+    code: gcs-cmn-s06-integral-indefinida
+  - slide: Sucesiones y series finitas
+    code: gcs-cmn-s07-sucesiones-y-series-finitas
+  - slide: Análisis numérico y de los errores
+    code: gcs-cmn-s08-analisis-numerico-y-de-los-errores
+  - slide: Cálculo de raíces e interpolación
+    code: gcs-cmn-s09-calculo-de-raices-e-interpolacion
+  - slide: Conteo y aritmética del computador
+    code: gcs-cmn-s10-conteo-y-aritmetica-del-computador
+
+assignments:
+  - assignment: Resolviendo problemas utilizando derivadas
+    code: gcs-cmn-a01-resolviendo-problemas-utilizando-derivadas
+    due_date: 2025-03-31
+  - assignment: Áreas e integración
+    code: gcs-cmn-a02-areas-e-integracion
+    due_date: 2025-04-21
+
+lectures:
+  - lecture: Introducción a la asignatura
+    code: gcs-cmn-l01-introduccion-a-la-asignatura
+    date:
+
+resources:
